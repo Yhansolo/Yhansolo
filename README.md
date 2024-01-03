@@ -16,7 +16,7 @@ E não se esqueça de conferir o meu blog.
 
 ## Sobre mim:
 
-Olá! Meu nome é Yan, tenho 20 anos e sou formado em Engenharia Química e MBA em Data Science & ANalytics (média geral do curso: 8,72). Já estou no mercado de dados há 3 anos.<br>
+Olá! Meu nome é Yan, tenho 26 anos e sou formado em Engenharia Química e MBA em Data Science & ANalytics (média geral do curso: 8,72). Já estou no mercado de dados há 3 anos.<br>
 
 ### Hard Skills:
 
