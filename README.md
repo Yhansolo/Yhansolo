@@ -4,8 +4,8 @@
 
 ## My experiences:
 
-🌐 Tenho experiência em trabalhar com Python, SQL, C++ e suas bibliotecas para Ciência de Dados e Machine Learning<br>
-🎲 Trabalho como Analista de dados na empresa multinacional de Healthcare Philips <br>
+🌐 I have experience working with Python, R Language, SQL and its libraries for Data Science and Machine Learning<br>
+🎲 Currently working as a Data Analystin a Worldwide Healthcare Company called Philips<br>
 📚 Tenho MBA em Data Science & Analytics pela USP Esalq <br>
 📧 Quer entrar em contato comigo? Envie um e-mail para yanpatrick27@gmail.com <br>
 <br>
