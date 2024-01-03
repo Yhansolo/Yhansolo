@@ -1,8 +1,8 @@
-# Olá! Bem-vindo(a) ao meu repositório!
+# What a pleasure your visit to my profile! Welcome!
 
 <br>
 
-## Minha experiência:
+## My experiences:
 
 🌐 Tenho experiência em trabalhar com Python, SQL, C++ e suas bibliotecas para Ciência de Dados e Machine Learning<br>
 🎲 Trabalho como Analista de dados na empresa multinacional de Healthcare Philips <br>
