@@ -5,9 +5,9 @@
 ## Minha experiência:
 
 🌐 Tenho experiência em trabalhar com Python, SQL, C++ e suas bibliotecas para Ciência de Dados e Machine Learning<br>
-🎲 Trabalhei como freelancer analista de dados para escolas de reforço no Brasil <br>
-📚 Estou estudando Ciência da Computação na UFLA (Universidade Federal de Lavras) <br>
-📧 Quer entrar em contato comigo? Envie um e-mail para anwarhermuche2@gmail.com <br>
+🎲 Trabalho como Analista de dados na empresa multinacional de Healthcare Philips <br>
+📚 Tenho MBA em Data Science & Analytics pela USP Esalq <br>
+📧 Quer entrar em contato comigo? Envie um e-mail para yanpatrick27@gmail.com <br>
 <br>
 
 E não se esqueça de conferir o meu blog.
