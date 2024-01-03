@@ -5,7 +5,7 @@
 ## My experiences:
 
 🌐 I have experience working with Python, R Language, SQL and its libraries for Data Science and Machine Learning<br>
-🎲 Currently working as a Data Analystin a Worldwide Healthcare Company called Philips<br>
+🎲 Currently working as a Early Warning and Monitoring Analyst (Data Analyst on Business Continuity role) in a Worldwide Healthcare Company called Philips<br>
 📚 Tenho MBA em Data Science & Analytics pela USP Esalq <br>
 📧 Quer entrar em contato comigo? Envie um e-mail para yanpatrick27@gmail.com <br>
 <br>
