@@ -57,9 +57,7 @@ Quanto aos idiomas, sou fluente em português, possuo inglês avançado e espanh
 
 ## Produção de Conteúdo:
 
-No YouTube, tenho um curso ensinando a linguagem Python do zero e, futuramente, terá tutoriais sobre ciência de dados, Machine Learning e as novas ferramentas de LLMs
-No LinkedIn, publico vários materiais gratuitos (como a transcrição em português de um curso gratuito oferecido pela DeepLearning.AI) para ajudar iniciantes e avançados na área
-No Medium, publico artigos sobre diversos assuntos (Gradiente Descendente, Classificação Hierárquica, Feature Selection, entre outros)
+No Medium, publico artigos sobre diversos assuntos (Power BI, Supervised learning etc)
 
 
 
