@@ -7,7 +7,7 @@ You will see here a brief up of my work activities that what I want to show to t
 
 🌐 I have experience working with Python, R Language, SQL and its libraries for Data Science and Machine Learning<br>
 🎲 Currently working as a Early Warning and Monitoring Analyst (Data Analyst for Risk Management role) in a Worldwide Healthcare Company called Philips<br>
-📚 I'm MBA on Data Science & Analytics at USP Esalq <br>
+📚 MBA on Data Science & Analytics at USP Esalq and Bachelor in Chemical Engineering <br>
 📧 Do you want to contact me? Send a email to yanpatrick27@gmail.com <br>
 <br>
 
