@@ -1,67 +1,69 @@
 # What a pleasure your visit to my profile! Welcome!
 
 <br>
+You will see here a brief up of my work activities that what I want to show to the public. P.sw.: it doesn't mean that I just do that (I'm good in chess and playing guitar but it's not written down here xD) 
 
 ## My experiences:
 
 🌐 I have experience working with Python, R Language, SQL and its libraries for Data Science and Machine Learning<br>
-🎲 Currently working as a Early Warning and Monitoring Analyst (Data Analyst on Business Continuity role) in a Worldwide Healthcare Company called Philips<br>
-📚 Tenho MBA em Data Science & Analytics pela USP Esalq <br>
-📧 Quer entrar em contato comigo? Envie um e-mail para yanpatrick27@gmail.com <br>
+🎲 Currently working as a Early Warning and Monitoring Analyst (Data Analyst for Risk Management role) in a Worldwide Healthcare Company called Philips<br>
+📚 I'm MBA on Data Science & Analytics at USP Esalq <br>
+📧 Do you want to contact me? Send a email to yanpatrick27@gmail.com <br>
 <br>
 
-E não se esqueça de conferir o meu blog.
+and don't forget to check my social networks (Specially Linkedin).
 
 <br>
 
-## Sobre mim:
+## About me:
 
-Olá! Meu nome é Yan, tenho 26 anos e sou formado em Engenharia Química e MBA em Data Science & ANalytics (média geral do curso: 8,72). Já estou no mercado de dados há 3 anos.<br>
+Hello! My name is Yan, I'm 26 years old and I have a degree in Chemical Engineering, MBA in Data Science and Analytics at USP (Global score: 8,72). I'm on the data science and analytics market since 2021.<br>
 
 ### Hard Skills:
 
-Python (scikit-learn, tensorflow, pandas, numpy, matplotlib, seaborn, flask)
-SQL
-Machine Learning (Modelos supervisionados, não supervisionados, deep learning e LLMs)
-Estatística descritiva e inferencial aplicada à análise de dados
-Excel e PowerBI
-JavaScript
-Git & Version Control
+Python (main libraries: scikit-learn, tensorflow, pandas, numpy, matplotlib, seaborn, NLTK);
+SQL;
+Machine Learning (Modelos supervisionados, não supervisionados, deep learning e LLMs);
+Estatística descritiva e inferencial aplicada à análise de dados;
+Excel, Power Automate e Power Apps;
+PowerBI, Qlik e Tableau;
+Git & Version Control.
 <br>
 
 <br>
 
 ### Soft Skills:
 
-Comunicativo
-Trabalho em equipe
-Proatividade
-Senso de liderança
-Aprendo muito rápido
-Autodidata
+Comunicative
+Enthusiastic
+Team worker
+proactive
+Leadership skills
+Really fast-learner
+Self driven
 <br>
 
 <br>
 
-## Projetos em que atuei:
+## Projects that I developed:
 
-Desenvolvimento de chatbots e assistentes virtuais utilizando LLMs, com integração à API da OpenAI e utilização de outras ferramentas disponíveis, como os modelos da Hugging Face e o framework LangChain
-Segmentação de clientes utilizando o algoritmo K-Means em uma análise RFV para realizar campanhas direcionadas aos clientes mais rentáveis da empresa
-Construção de relatórios automatizados para cursinhos brasileiros utilizando os microdados do ENEM, enfatizando a análise das questões, como aquelas com maior índice de erros, as mais difíceis, distribuição dos assuntos, entre outros
-Construção de um aplicativo web utilizando Streamlit e a API do ChatGPT para realizar análise de sentimentos das avaliações do aplicativo da empresa.
+- Text Classifier for classifying incidents based on worldwide events by comparing performance of Naive Bayes and SVM machine learning models.
 <br>
 
 <br>
 
-Quanto aos idiomas, sou fluente em português, possuo inglês avançado e espanhol básico.
+## Languages:
+
+English - Fluent
+Portuguese - Fluent
+Spanish - Advanced
+French - Beginner
+Deutsch - Beginner
 
 ## Produção de Conteúdo:
 
-No Medium, publico artigos sobre diversos assuntos (Power BI, Supervised learning etc)
+On Medium, I write about multiple contents, per example Power BI, Power Automate, Natural Language Processing, Machine Learning etc)
 
-
-
-No GitHub, publico vários projetos pessoais relacionados à ciência de dados e Machine Learning.
 <br>
 
-Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.
+Feel free to explore my projects and reach out to me. In case of your interests on working with me, you will be having fun and working hard simultaneously (yes, this is possible).
