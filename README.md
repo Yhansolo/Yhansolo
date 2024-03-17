@@ -24,7 +24,6 @@ Hello! My name is Yan, I'm 26 years old and I have a degree in Chemical Engineer
 Python (main libraries: scikit-learn, tensorflow, pandas, numpy, matplotlib, seaborn, NLTK);
 SQL;
 Machine Learning (Modelos supervisionados, não supervisionados, deep learning e LLMs);
-Estatística descritiva e inferencial aplicada à análise de dados;
 Excel, Power Automate e Power Apps;
 PowerBI, Qlik e Tableau;
 Git & Version Control.
