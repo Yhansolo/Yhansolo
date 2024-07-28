@@ -59,7 +59,7 @@ Spanish - Advanced
 French - Beginner
 Deutsch - Beginner
 
-## Produção de Conteúdo:
+## Publications:
 
 On Medium, I write about multiple contents, per example Power BI, Power Automate, Natural Language Processing, Machine Learning etc)
 
